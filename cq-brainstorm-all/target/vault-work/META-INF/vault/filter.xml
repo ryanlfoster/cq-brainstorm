@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<workspaceFilter version="1.0">
-    <filter root="/apps/cq-brainstorm/install/cq-brainstorm-services-1.0.0-SNAPSHOT.jar" />
-    <filter root="/apps/cq-brainstorm/install/cq-brainstorm-taglib-1.0.0-SNAPSHOT.jar" />
-    <filter root="/etc/packages/com.cq.brainstorm/cq-brainstorm-config-1.0.0-SNAPSHOT.zip" />
-    <filter root="/etc/packages/com.cq.brainstorm/cq-brainstorm-view-1.0.0-SNAPSHOT.zip" />
-</workspaceFilter>
