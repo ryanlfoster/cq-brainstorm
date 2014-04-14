@@ -1,9 +1,5 @@
-README v${project.version}
-
 ==================
 ABOUT THIS PROJECT
 ==================
 
-This project was generated from the com.cqblueprints.archetypes:multi-module Maven Archetype.
-
-The Main Goal of this Project is to have a playground for prototyping and brainstorming about CQ platform
+The Main Goal of this Project is to have a representative playground for prototyping and brainstorming inside CQ platform.
