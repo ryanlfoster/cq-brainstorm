@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>com.cq.brainstorm - cq-brainstorm-all</comment>
+<entry key="createdBy">audalov</entry>
+<entry key="name">cq-brainstorm-all</entry>
+<entry key="created">2014-04-14T17:56:06.318+0200</entry>
+<entry key="groupId">com.cq.brainstorm</entry>
+<entry key="version">1.0.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.cq.brainstorm</entry>
+<entry key="description">Builds a CQ package containing all components of the 'CQ Prototype' project. Useful for making formal
+        releases to QA and production environments for example.</entry>
+<entry key="artifactId">cq-brainstorm-all</entry>
+<entry key="path">/etc/packages/com.cq.brainstorm/cq-brainstorm-all.zip</entry>
+</properties>

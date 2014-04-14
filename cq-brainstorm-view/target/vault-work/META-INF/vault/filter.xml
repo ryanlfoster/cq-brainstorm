@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspaceFilter version="1.0">
+    <filter root="/apps/cq-brainstorm">
+        <exclude pattern="/apps/cq-brainstorm/install.*"/>
+        <exclude pattern="/apps/cq-brainstorm/runmodes.*"/>
+    </filter>
+    <filter root="/etc/clientlibs/cq-brainstorm"/>
+	<filter root="/etc/designs/cq-brainstorm">
+        <exclude pattern="/etc/designs/cq-brainstorm/jcr:content.*"/>
+    </filter>
+</workspaceFilter>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.sling:org.apache.sling.auth.core:1.0.7-R1239106">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/sling/org.apache.sling.auth.core/1.0.7-R1239106/org.apache.sling.auth.core-1.0.7-R1239106.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/sling/org.apache.sling.auth.core/1.0.7-R1239106/org.apache.sling.auth.core-1.0.7-R1239106-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/sling/org.apache.sling.auth.core/1.0.7-R1239106/org.apache.sling.auth.core-1.0.7-R1239106-sources.jar!/" />
+      <root url="file:///var/folders/cb/_vbwqj3x50d1330k8ct8791h0000gn/T/intellijad" />
+    </SOURCES>
+  </library>
+</component>
