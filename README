@@ -3,3 +3,16 @@ ABOUT THIS PROJECT
 ==================
 
 The Main Goal of this Project is to have a representative playground for prototyping and brainstorming inside CQ platform.
+
+=======================
+What we have right now?
+=======================
+
+* Custom Authentication Handler
+* Custom Serialization Servlet
+
+=======
+RoadMap
+=======
+
+TODO
