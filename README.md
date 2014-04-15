@@ -9,7 +9,7 @@ The Main Goal of this Project is to have a representative playground for prototy
 cd cq-brainstorm
 maven clean install
 cd cq-brainstorm-all
-# Recheck connection settings and install all the staff ob your server
+# Recheck connection settings and install all the staff on your server
 maven install -P auto-deploy 
 ```
 
