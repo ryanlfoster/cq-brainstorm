@@ -16,4 +16,4 @@ maven install -P auto-deploy
 # RoadMap
 - [Х] Custom Authentication Module
 - [X] Custom Serialization Servlet
-- [ ] A unit testing solution that enables creation and manipulation of CRX content in memory. Aimed to minimize efforts for the test content initialization keeping focus on the minimal test data rather than comprehensive content tree representation.
+- [ ] A unit testing solution that enables creation and manipulation of CRX content in memory. Aimed to minimise efforts for the test content initialisation keeping focus on the minimal test data rather than comprehensive content tree representation.
